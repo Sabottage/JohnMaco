@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JohnMaco
-- 👀 I’m interested in game developement
-- 🌱 I’m currently learning c++ & Unreal Engine 4
-- 💞️ I’m looking to collaborate on NOTHING for now, I'm pretty busy with other things
+- 👋 Hi, I’m John
+- 👀 I’m interested in IT, Java Development, Game Development
+- 🌱 I’m currently learning Java & c++
+- 💞️ I’m looking to collaborate on NOTHING for now
 - 📫 How to reach me macoveii300@gmail.com
 
 <!---
